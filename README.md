@@ -11,7 +11,6 @@
 ## About Me 
 
 - 🎮 Passionate about games (playing and trying code one)
-- 🎼 I play some instruments like Guitar and Drums in my free time
 - 🎓 BEng in Computer Science Engineering on progress
 - 🧑‍💻 Average Developer since 2017
 

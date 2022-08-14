@@ -67,7 +67,7 @@
 <p align="center">
 <a href="https://github.com/yoyozaemon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoyozaemon&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=douglasdrf&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yoyozaemon&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoyozaemon&theme=merko"/>
 </a>
 </p>

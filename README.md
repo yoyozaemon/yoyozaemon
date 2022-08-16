@@ -12,7 +12,7 @@
 
 - 🎮 Passionate about games (playing and trying code one)
 - 🎓 BEng in Computer Science Engineering on progress
-- 🧑‍💻 Average Developer since 2017
+- 🧑‍💻 Average Developer since 2020
 
 
 </br>

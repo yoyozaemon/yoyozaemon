@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/-%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com//"><img src="https://img.shields.io/badge/-@-333333?style=flat-square&logo=instagram"/></a
+<a href="https://www.instagram.com//"><img src="https://img.shields.io/badge/-@-333333?style=flat-square&logo=instagram"/></a>
 <a href="https://discord.com/users/703745014953672744"><img src="https://img.shields.io/badge/-%239622-333333?style=flat-square&logo=discord"/></a>
 
   
